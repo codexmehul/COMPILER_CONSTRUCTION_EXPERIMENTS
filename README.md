@@ -7,7 +7,7 @@ Welcome to the **Compiler Construction Lab** repository. This repository contain
 
 | Exp No. | Experiment Title | Source Code | Documentation |
 
-| **05** | Source Code Optimization (Strength, Dead Code, Loop Motion) | [Source_code_optimization.c](Experiment_no.5/README.md) | [README.md](./Experiment-5/README.md) | 
+| **05** | Source Code Optimization (Strength, Dead Code, Loop Motion) | [Source_code_optimization.c](Experiment_no.5/README.md) | [README.md](Experiment_no.5/README.md) | 
 
 | **06** | Design of a Simple High-Level Language (MiniLang) | [Design of a Simple High-level Language.c](./Experiment-6/Design_of_a_Simple_High-Level_Language.c) | [README.md](./Experiment-6/README.md) |
 
