@@ -11,6 +11,6 @@ Welcome to the **Compiler Construction Lab** repository. This repository contain
 
 | **06** | Design of a Simple High-Level Language (MiniLang) | [Design of a Simple High-level Language.c](Experiment_No.6/Design of a Simple High-Level Language.c) | [README.md](./Experiment-6/README.md) |
 
-| **07** | Lexical Analyzer in C | [Lexer.c](Experiment-7/Lexer.c) | [README.md](Experiment_No.7/README.md) |
+| **07** | Lexical Analyzer in C | [Lexer.c](Experiment_No.7/Lexer.c) | [README.md](Experiment_No.7/README.md) |
 
 ---
